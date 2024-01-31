@@ -1,21 +1,22 @@
 // | -------------------------------------------------------------
 // | Color
 // | -------------------------------------------------------------
-
+//#89db40
+//#a9e96d
 $colors: (
   primary: (
-    100: hsl(276, 100%, 79%),
-    200: hsl(276, 79%, 69%),
-    300: hsl(276, 53%, 49%),
-    400: hsl(276, 64%, 48%),
-    500: hsl(276, 96%, 20%),
+    100: hsl(126, 78%, 58%), // Adapt these values based on your desired hue, saturation, and lightness for primary
+    200: hsl(126, 79%, 69%), // Adapt these values
+    300: hsl(126, 53%, 49%), // Adapt these values
+    400: hsl(126, 64%, 48%), // Adapt these values
+    500: hsl(126, 96%, 20%), // Adapt these values
   ),
   secondary: (
-    100: hsl(173, 81%, 68%),
-    200: hsl(173, 80%, 63%),
-    300: hsl(173, 72%, 57%),
-    400: hsl(173, 75%, 47%),
-    500: hsl(173, 90%, 30%),
+    100: hsl(193, 73%, 84%), // Adapt these values based on your desired hue, saturation, and lightness for secondary
+    200: hsl(193, 80%, 63%), // Adapt these values
+    300: hsl(193, 72%, 57%), // Adapt these values
+    400: hsl(193, 75%, 47%), // Adapt these values
+    500: hsl(193, 90%, 30%), // Adapt these values
   ),
   neutral: (
     100: hsl(0 0% 100%),
